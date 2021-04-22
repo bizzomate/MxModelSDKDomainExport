@@ -1,0 +1,23 @@
+{
+  "name": "ModelExport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/when": "^2.4.33",
+    "mendixmodelsdk": "^4.49.0",
+    "mendixplatformsdk": "^4.1.1",
+    "when": "^3.7.8",
+    "csv-writer": "^1.6.0",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.41"
+  }
+}
